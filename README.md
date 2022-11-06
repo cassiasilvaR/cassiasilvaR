@@ -1,7 +1,7 @@
 ## Olá! 👋
 
-💻 Graduanda em Ciência da Computação
-⚖️ Pesquisando justiça algoritmica
+- 💻 Graduanda em Ciência da Computação
+- ⚖️ Pesquisando justiça algoritmica
 
 <div align="center">
   <a href="https://github.com/cassiasilvaR">
