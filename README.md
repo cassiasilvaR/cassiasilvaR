@@ -1,4 +1,4 @@
-## Olá! 👋
+## Olá! 
 
 - 💻 Graduanda em Ciência da Computação
 - ⚖️ Pesquisando justiça algoritmica
