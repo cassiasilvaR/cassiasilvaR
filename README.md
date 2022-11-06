@@ -2,6 +2,7 @@
 
 - 💻 Graduanda em Ciência da Computação
 - ⚖️ Pesquisando justiça algoritmica
+- 📫 Fale comigo em cassiarosa@protonmail.com
 
 <div align="center">
   <a href="https://github.com/cassiasilvaR">
