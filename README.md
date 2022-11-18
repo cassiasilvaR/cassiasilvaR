@@ -1,8 +1,8 @@
-## Olá! 👋
+## Heey! 👋
 
-- 💻 Graduanda em Ciência da Computação
-- ⚖️ Pesquisando justiça algoritmica
-- 📫 Fale comigo em cassiarosa@protonmail.com
+- 🎓 Computer Science Undergraduate
+- 📖 Searching NLP and Hate Speech Detection
+- 📧 Send me an email cassiarosa@protonmail.com
 
 <div align="center">
   <a href="https://github.com/cassiasilvaR">
